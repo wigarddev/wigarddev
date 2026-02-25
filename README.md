@@ -15,7 +15,7 @@
 <p align="center">
 🎂 20 y.o. developer, coding since 2017 — started with Pawn scripts for SA-MP<br>
 🔧 Building production-grade distributed systems with <b>TypeScript</b> and <b>Go</b><br>
-☸️ Designing microservice architectures, deploying to cloud<br>
+☸️ Designing microservice architectures & deploying to cloud<br>
 🔁 Running the full cycle: code, containerize, deploy, monitor<br>
 📐 In love with math & analysis<br>
 ❤️ Everything in red<br>
