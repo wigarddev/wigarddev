@@ -66,6 +66,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,prometheus,grafana,sentry" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="48" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Lens-3d90ce?style=for-the-badge&logo=lens&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" height="48" />
